@@ -1,3 +1,3 @@
 import pygame as pg
 
-eskilkl-debug
+var = "funnyimg2"
